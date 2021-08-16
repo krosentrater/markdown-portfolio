@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Playing guitar 🎸
+2. Playing games 💻
+3. Reading books 📖
+4. Coding
