@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **Learning JavaScript
+2. *Learning HTML and CSS
+3. ***Teaming up with classmates to solve problems
